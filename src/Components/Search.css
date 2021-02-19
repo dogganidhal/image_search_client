@@ -1,0 +1,19 @@
+
+
+.search-box-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+#search-bar {
+    height: 2em;
+    width: 24em;
+    font-size: 20px;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 24px;
+}
